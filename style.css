@@ -1,0 +1,32 @@
+body{
+    background-color:yellowgreen    }
+table{
+
+    color:royalblue
+}
+h1{
+    text-align: center;
+    font-size: 55px;
+    font-style: italic;
+    margin: 50px;
+    padding: 100px;
+    border: 10px solid blueviolet;
+    background-color:wheat;
+}
+#top{background-color: cornsilk;}
+
+.intro{
+    color: darkorange;
+}
+#intro{ color: darkgray;}
+
+.one{
+    text-decoration : underline ;
+    background-color: burlywood;
+
+}
+.two{
+    text-align: right;
+    
+
+}
